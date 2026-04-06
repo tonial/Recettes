@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>{{ name }}</title>
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+        <style></style>
+        <link rel="stylesheet" href="theme.css">
+    </head>
+    <body>
+        <article class="card">
+            <header class="header">
+                <h1>{{ name }}</h1>
+                {% if source %}<p class="author">{{ source }}</p>{% endif %}
+            </header>
+            <div class="meta">
+                {% for key, value in meta.items() %}
+                    {% if value %}
+                        <div class="meta-item">
+                            <div class="meta-label">{{ key }}</div>
+                            <div class="meta-value">{{ value }}</div>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+            <!-- Ingrédients -->
+            <div class="divider">
+                <div class="divider-line"></div>
+                <span class="divider-label">Ingrédients</span>
+                <div class="divider-line"></div>
+            </div>
+            <div class="ingredients">
+                {% for group in ingredients %}
+                    <div class="ingredient-group">
+                        {% if group.title %}<h3>{{ group.title }}</h3>{% endif %}
+                        <ul class="ingredient-list">
+                            {% for item in group.list %}<li>{{ item }}</li>{% endfor %}
+                        </ul>
+                    </div>
+                {% endfor %}
+            </div>
+            <!-- Préparation -->
+            <div class="divider">
+                <div class="divider-line"></div>
+                <span class="divider-label">Préparation</span>
+                <div class="divider-line"></div>
+            </div>
+            <ol class="steps">
+                {% for step in steps %}
+                    <li class="step">
+                        <span class="step-num">{{ loop.index }}</span>
+                        <p class="step-text">{{ step }}</p>
+                    </li>
+                {% endfor %}
+            </ol>
+        </article>
+    </body>
+</html>

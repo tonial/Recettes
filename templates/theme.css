@@ -1,0 +1,207 @@
+:root {
+  --cream: #faf6f0;
+  --ink: #1a1410;
+  --blueberry: #3b2f6e;
+  --berry-light: #7b6bb5;
+  --berry-pale: #e8e3f5;
+  --ingrdients: #d4956a;
+  --ingrdients-light: #f5e6d8;
+  --rule: #d6cfc4;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background-color: var(--cream);
+  color: var(--ink);
+  font-family: 'DM Sans', sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 60px 20px;
+}
+
+.card {
+  width: 100%;
+  max-width: 720px;
+  background: #fff;
+  border: 1px solid var(--rule);
+  padding: 3em;
+  position: relative;
+}
+
+
+/* Header */
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  font-weight: 400;
+  letter-spacing: -0.5px;
+  line-height: 1.1;
+  font-style: italic;
+  color: var(--blueberry);
+}
+
+.author {
+  margin-top: 10px;
+  font-size: 0.5rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--berry-light);
+}
+
+/* Meta row */
+.meta {
+  display: flex;
+  justify-content: center;
+  gap: 0;
+  margin: 36px 0;
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+}
+
+.meta-item {
+  flex: 1;
+  text-align: center;
+  padding: 18px 10px;
+  position: relative;
+}
+
+.meta-item + .meta-item::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 20%; height: 60%;
+  width: 1px;
+  background: var(--rule);
+}
+
+.meta-label {
+  font-size: 0.65rem;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--berry-light);
+  margin-bottom: 4px;
+}
+
+.meta-value {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+  color: var(--ink);
+}
+
+/* Divider */
+.divider {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin: 40px 0 28px;
+}
+
+.divider-line { flex: 1; height: 1px; background: var(--rule); }
+
+.divider-label {
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--blueberry);
+}
+
+/* recipes list */
+.recipes-list li {
+  display: flex;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 500;
+  color: var(--blueberry);
+}
+
+
+/* Ingredients */
+.ingredients {
+  gap: 28px 40px;
+  margin-bottom: 8px;
+}
+
+.ingredient-group h3 {
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ingrdients);
+  margin-bottom: 14px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--ingrdients-light);
+}
+
+.ingredient-group {
+  margin-bottom: 2em;
+}
+
+.ingredient-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.ingredient-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  font-weight: 500;
+  color: var(--blueberry);
+}
+
+.ingredient-list li::before {
+  content: '';
+  width: 5px;
+  height: 5px;
+  min-width: 5px;
+  border-radius: 50%;
+  background: var(--berry-pale);
+  border: 1.5px solid var(--berry-light);
+  margin-top: 2px;
+}
+
+
+/* Steps */
+.steps {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  margin-top: 4px;
+}
+
+.step {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.step-num {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--berry-light);
+  line-height: 1;
+  min-width: 28px;
+  padding-top: 2px;
+}
+
+.step-text {
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: #3a3530;
+  padding-top: 4px;
+}
