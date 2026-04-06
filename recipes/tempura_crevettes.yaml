@@ -7,7 +7,7 @@ bakingtime: "15 minutes"
 bakingtemperature: ""
 portion: "4 personnes"
 source: ""
-graph: "tempura_ext"
+image: "tempura_ext"
 ingredients:
  - "1 kg de crevettes"
  - "300 g de farine"

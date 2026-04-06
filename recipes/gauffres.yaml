@@ -7,7 +7,7 @@ bakingtime: "15 minutes"
 bakingtemperature: ""
 portion: ""
 source: ""
-graph: ""
+image: ""
 ingredients:
  - "300 g de farine"
  - "350 ml de lait"

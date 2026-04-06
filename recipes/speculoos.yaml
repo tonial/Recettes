@@ -7,7 +7,7 @@ bakingtime: "15 minutes"
 bakingtemperature: "180 °C"
 portion: ""
 source: ""
-graph: ""
+image: ""
 ingredients:
  - "250 g de farine"
  - "125 g de beurre"

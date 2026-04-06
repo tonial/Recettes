@@ -7,7 +7,7 @@ bakingtime: "10 minutes"
 bakingtemperature: "210°C"
 portion: ""
 source: ""
-graph: ""
+image: ""
 ingredients:
  - "150 g de farine"
  - "130 g de sucre"

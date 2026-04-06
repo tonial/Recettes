@@ -7,7 +7,7 @@ bakingtime: "50 minutes"
 bakingtemperature: ""
 portion: "8 personnes"
 source: "www.marmiton.org"
-graph: "cake_dattes"
+image: "cake_dattes"
 ingredients:
  - "200 g de farine"
  - "100 g de sucre"

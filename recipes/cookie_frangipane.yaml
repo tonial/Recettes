@@ -7,7 +7,7 @@ bakingtime: "20 minutes"
 bakingtemperature: "185°C"
 portion: "16 cookies"
 source: "www.deliacious.com"
-graph: ""
+image: ""
 ingredients:
  - "\\textbf{cookies}"
  - "80g d'huile"

@@ -7,7 +7,7 @@ bakingtime: "2 heures"
 bakingtemperature: ""
 portion: "4 personnes"
 source: ""
-graph: ""
+image: ""
 ingredients:
  - "\\textbf{Pâte sablée}"
  - "120 g de Pavé bretons"

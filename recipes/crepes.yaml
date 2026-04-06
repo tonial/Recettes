@@ -7,7 +7,7 @@ bakingtime: "30 minutes"
 bakingtemperature: ""
 portion: ""
 source: ""
-graph: ""
+image: ""
 ingredients:
  - "400 g de farine"
  - "400 ml de lait et plus"

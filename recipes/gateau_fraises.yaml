@@ -7,7 +7,7 @@ bakingtime: "30 minutes"
 bakingtemperature: ""
 portion: "8 personnes"
 source: ""
-graph: ""
+image: ""
 ingredients:
  - "\\textbf{Génoise}"
  - "120 g de farine"

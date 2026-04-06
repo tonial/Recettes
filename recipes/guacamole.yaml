@@ -7,7 +7,7 @@ bakingtime: ""
 bakingtemperature: ""
 portion: "8 personnes"
 source: ""
-graph: "guacamole"
+image: "guacamole"
 ingredients:
  - "4 gros avocats"
  - "4 oignons nouveaux"

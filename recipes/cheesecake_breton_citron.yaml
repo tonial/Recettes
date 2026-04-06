@@ -7,7 +7,7 @@ bakingtime: ""
 bakingtemperature: ""
 portion: "6 personnes"
 source: "www.cuisine-campagne.com"
-graph: ""
+image: ""
 ingredients:
  - "\\textbf{Pâte sablée}"
  - "1 paquet de galettes Mont Saint-Michel (120 g)"

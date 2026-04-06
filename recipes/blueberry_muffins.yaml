@@ -7,7 +7,7 @@ bakingtime: "25 minutse"
 bakingtemperature: ""
 portion: "8 gros muffins"
 source: "allrecipes.com"
-graph: ""
+image: ""
 ingredients:
  - "\\textbf{Muffin}"
  - "200 g de farine"

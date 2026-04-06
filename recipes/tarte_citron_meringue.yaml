@@ -7,7 +7,7 @@ bakingtime: "30 minutes"
 bakingtemperature: ""
 portion: "8 personnes"
 source: "Mat"
-graph: "tarte_citron"
+image: "tarte_citron"
 ingredients:
  - "\\textbf{Pâte à tarte}"
  - "250 g de farine"

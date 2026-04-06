@@ -7,7 +7,7 @@ bakingtime: ""
 bakingtemperature: ""
 portion: "8 personnes"
 source: "marmiton"
-graph: "bretzels_ext"
+image: "bretzels_ext"
 ingredients:
  - "300 g de farine"
  - "20 cl d'eau tiède"
