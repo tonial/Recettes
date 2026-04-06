@@ -1,0 +1,23 @@
+---
+category: "Desserts"
+name: "Gateau au yaourt"
+preparationtime: "15 minutes"
+waitingtime: ""
+bakingtime: "40 minutes"
+bakingtemperature: ""
+portion: "4 personnes"
+calory: ""
+source: ""
+graph: ""
+ingredients:
+ - "1 pot de yaourt"
+ - "1,5 pots de sucre"
+ - "3 pots de farine"
+ - "2/3 pot d'huile de tournesol"
+ - "3 œufs"
+ - "1 sachet de levure chimique"
+preparation:
+ - "Faites préchauffer le four à 150°C"
+ - "Dans un récipient mélangez les ingrédients jusqu'à obtention d'une pâte homogène."
+ - "Beurrez le moule et versez-y la pâte avant de l'enfourner."
+hint: "Vous pouvez jouter un fruit coupé en morceaux (pomme poire kiwi ou autre) avec éventuellement un sachet de sucre vaniellé selon le fruit utilisé."

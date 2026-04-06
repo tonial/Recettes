@@ -1,0 +1,23 @@
+---
+category: "Goûters"
+name: "Pancakes"
+preparationtime: "10 minutes"
+waitingtime: ""
+bakingtime: "20 minutes"
+bakingtemperature: ""
+portion: ""
+calory: ""
+source: ""
+graph: ""
+ingredients:
+ - "300 g de farine"
+ - "300 ml de lait"
+ - "70 g de beurre fondu"
+ - "3 œufs séparés"
+ - "1 pinsée de sel"
+ - "1 sachet de levure chimique"
+preparation:
+ - "Battez les blancs en neige. Puis mélangez les autres ingrédients dans un second bol."
+ - "Incorporez les blancs dans le second bol."
+ - "Cuisez :)"
+hint: ""
