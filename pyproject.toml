@@ -12,6 +12,7 @@ dev = [
     "djlint>=1.36.4",
     "pre-commit>=4.5.1",
     "ruff>=0.15.9",
+    "yamllint>=1.38.0",
 ]
 
 [tool.setuptools]

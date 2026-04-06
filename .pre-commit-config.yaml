@@ -1,3 +1,4 @@
+---
 repos:
   - repo: local
     hooks:
@@ -15,4 +16,9 @@ repos:
         name: djlint
         entry: djlint --reformat
         types: [html]
+        language: system
+      - id: yamllint
+        name: yamllint
+        entry: yamllint recipes/
+        files: "recipes"
         language: system
