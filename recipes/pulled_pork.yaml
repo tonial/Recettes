@@ -1,11 +1,12 @@
 ---
 name: "Pulled Pork"
 category: "Plats Chauds"
-preparationtime: "5 minutes"
-waitingtime: ""
-bakingtime: "5 heures"
-bakingtemperature: "120°C"
-portion: "8 personnes"
+meta:
+ preparationtime: "5 minutes"
+ waitingtime: ""
+ bakingtime: "5 heures"
+ bakingtemperature: "120°C"
+ portion: "8 personnes"
 source: ""
 image: ""
 ingredients:

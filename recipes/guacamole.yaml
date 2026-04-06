@@ -1,11 +1,12 @@
 ---
 name: "Guacamole"
 category: "Apéro"
-preparationtime: "15 minutes"
-waitingtime: ""
-bakingtime: ""
-bakingtemperature: ""
-portion: "8 personnes"
+meta:
+ preparationtime: "15 minutes"
+ waitingtime: ""
+ bakingtime: ""
+ bakingtemperature: ""
+ portion: "8 personnes"
 source: ""
 image: "guacamole"
 ingredients:

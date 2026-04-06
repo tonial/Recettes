@@ -1,11 +1,12 @@
 ---
 name: "Cheesecake breton au citron"
 category: "Desserts"
-preparationtime: "1 heure 15 minutes"
-waitingtime: "8 heures"
-bakingtime: ""
-bakingtemperature: ""
-portion: "6 personnes"
+meta:
+ preparationtime: "1 heure 15 minutes"
+ waitingtime: "8 heures"
+ bakingtime: ""
+ bakingtemperature: ""
+ portion: "6 personnes"
 source: "www.cuisine-campagne.com"
 image: ""
 ingredients:

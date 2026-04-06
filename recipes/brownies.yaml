@@ -1,11 +1,12 @@
 ---
 name: "Brownies"
 category: "Desserts"
-preparationtime: "20 minutes"
-waitingtime: ""
-bakingtime: "30 minutes"
-bakingtemperature: ""
-portion: "6 personnes"
+meta:
+ preparationtime: "20 minutes"
+ waitingtime: ""
+ bakingtime: "30 minutes"
+ bakingtemperature: ""
+ portion: "6 personnes"
 source: ""
 image: ""
 ingredients:

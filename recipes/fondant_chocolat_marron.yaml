@@ -1,11 +1,12 @@
 ---
 name: "Fondant au chocolat et à la crème de marrons"
 category: "Desserts"
-preparationtime: "20 minutes"
-waitingtime: ""
-bakingtime: "30 minutes"
-bakingtemperature: ""
-portion: "6 personnes"
+meta:
+ preparationtime: "20 minutes"
+ waitingtime: ""
+ bakingtime: "30 minutes"
+ bakingtemperature: ""
+ portion: "6 personnes"
 source: "Chloé"
 image: ""
 ingredients:

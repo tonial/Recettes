@@ -1,11 +1,12 @@
 ---
 name: "Choux rouge aux marrons"
 category: "Plats Chauds"
-preparationtime: "30 minutes"
-waitingtime: ""
-bakingtime: "1 heure"
-bakingtemperature: ""
-portion: "6 personnes"
+meta:
+ preparationtime: "30 minutes"
+ waitingtime: ""
+ bakingtime: "1 heure"
+ bakingtemperature: ""
+ portion: "6 personnes"
 source: ""
 image: ""
 ingredients:

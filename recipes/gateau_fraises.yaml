@@ -1,11 +1,12 @@
 ---
 name: "Gateau aux fraises"
 category: "Desserts"
-preparationtime: "50 minutes"
-waitingtime: "2 heures"
-bakingtime: "30 minutes"
-bakingtemperature: ""
-portion: "8 personnes"
+meta:
+ preparationtime: "50 minutes"
+ waitingtime: "2 heures"
+ bakingtime: "30 minutes"
+ bakingtemperature: ""
+ portion: "8 personnes"
 source: ""
 image: ""
 ingredients:

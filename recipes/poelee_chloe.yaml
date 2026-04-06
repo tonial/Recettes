@@ -1,11 +1,12 @@
 ---
 name: "Poêlée à la Chloé"
 category: "Plats Chauds"
-preparationtime: "5 minutes"
-waitingtime: ""
-bakingtime: "10 minutes"
-bakingtemperature: ""
-portion: "3 personnes"
+meta:
+ preparationtime: "5 minutes"
+ waitingtime: ""
+ bakingtime: "10 minutes"
+ bakingtemperature: ""
+ portion: "3 personnes"
 source: "Chloé"
 image: ""
 ingredients:

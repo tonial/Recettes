@@ -1,11 +1,12 @@
 ---
 name: "Velouté potimarron coco"
 category: "Plats Chauds"
-preparationtime: "30 minutes"
-waitingtime: ""
-bakingtime: "30 minutes"
-bakingtemperature: ""
-portion: "4 personnes"
+meta:
+ preparationtime: "30 minutes"
+ waitingtime: ""
+ bakingtime: "30 minutes"
+ bakingtemperature: ""
+ portion: "4 personnes"
 source: ""
 image: ""
 ingredients:

@@ -1,11 +1,12 @@
 ---
 name: "Poires surprises au chocolat"
 category: "Desserts"
-preparationtime: "15 minutes"
-waitingtime: ""
-bakingtime: "45 minutes"
-bakingtemperature: ""
-portion: "4 personnes"
+meta:
+ preparationtime: "15 minutes"
+ waitingtime: ""
+ bakingtime: "45 minutes"
+ bakingtemperature: ""
+ portion: "4 personnes"
 source: "Chloé"
 image: ""
 ingredients:

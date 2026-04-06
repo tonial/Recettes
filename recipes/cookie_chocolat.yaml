@@ -1,11 +1,12 @@
 ---
 name: "Cookies fudgy au chocolat"
 category: "Goûters"
-preparationtime: "15 minutes"
-waitingtime: "30 minutes"
-bakingtime: "10 minutes"
-bakingtemperature: ""
-portion: "8-10 cookies"
+meta:
+ preparationtime: "15 minutes"
+ waitingtime: "30 minutes"
+ bakingtime: "10 minutes"
+ bakingtemperature: ""
+ portion: "8-10 cookies"
 source: ""
 image: ""
 ingredients:

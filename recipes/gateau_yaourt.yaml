@@ -1,11 +1,12 @@
 ---
 name: "Gateau au yaourt"
 category: "Desserts"
-preparationtime: "15 minutes"
-waitingtime: ""
-bakingtime: "40 minutes"
-bakingtemperature: ""
-portion: "4 personnes"
+meta:
+ preparationtime: "15 minutes"
+ waitingtime: ""
+ bakingtime: "40 minutes"
+ bakingtemperature: ""
+ portion: "4 personnes"
 source: ""
 image: ""
 ingredients:

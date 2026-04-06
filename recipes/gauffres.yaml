@@ -1,11 +1,12 @@
 ---
 name: "Gauffres"
 category: "Goûters"
-preparationtime: "10 minutes"
-waitingtime: ""
-bakingtime: "15 minutes"
-bakingtemperature: ""
-portion: ""
+meta:
+ preparationtime: "10 minutes"
+ waitingtime: ""
+ bakingtime: "15 minutes"
+ bakingtemperature: ""
+ portion: ""
 source: ""
 image: ""
 ingredients:

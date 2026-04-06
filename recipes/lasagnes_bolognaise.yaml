@@ -1,11 +1,12 @@
 ---
 name: "Lasagnes à la bolognaise"
 category: "Plats Chauds"
-preparationtime: "45 minutes"
-waitingtime: ""
-bakingtime: "30 minutes"
-bakingtemperature: ""
-portion: "8 personnes"
+meta:
+ preparationtime: "45 minutes"
+ waitingtime: ""
+ bakingtime: "30 minutes"
+ bakingtemperature: ""
+ portion: "8 personnes"
 source: "Elaine et Benoit"
 image: ""
 ingredients:

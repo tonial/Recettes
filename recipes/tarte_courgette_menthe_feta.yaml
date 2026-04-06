@@ -1,11 +1,12 @@
 ---
 name: "Tarte aux courgettes, à la menthe et à la feta"
 category: "Plats Chauds"
-preparationtime: "20 minutes"
-waitingtime: ""
-bakingtime: "20 minutes"
-bakingtemperature: ""
-portion: "4 personnes"
+meta:
+ preparationtime: "20 minutes"
+ waitingtime: ""
+ bakingtime: "20 minutes"
+ bakingtemperature: ""
+ portion: "4 personnes"
 source: "Restaurant"
 image: ""
 ingredients:

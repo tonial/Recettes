@@ -1,11 +1,12 @@
 ---
 name: "Bavarois aux fruits rouges"
 category: "Desserts"
-preparationtime: "1 heure"
-waitingtime: "12 heures"
-bakingtime: ""
-bakingtemperature: ""
-portion: "8 personnes"
+meta:
+ preparationtime: "1 heure"
+ waitingtime: "12 heures"
+ bakingtime: ""
+ bakingtemperature: ""
+ portion: "8 personnes"
 source: ""
 image: ""
 ingredients:

@@ -1,11 +1,12 @@
 ---
 name: "Houmous"
 category: "Apéro"
-preparationtime: "10 minutes"
-waitingtime: ""
-bakingtime: ""
-bakingtemperature: ""
-portion: "8 personnes"
+meta:
+ preparationtime: "10 minutes"
+ waitingtime: ""
+ bakingtime: ""
+ bakingtemperature: ""
+ portion: "8 personnes"
 source: ""
 image: ""
 ingredients:

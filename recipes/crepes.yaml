@@ -1,11 +1,12 @@
 ---
 name: "Crèpes"
 category: "Goûters"
-preparationtime: "10 minutes"
-waitingtime: "1 heure"
-bakingtime: "30 minutes"
-bakingtemperature: ""
-portion: ""
+meta:
+ preparationtime: "10 minutes"
+ waitingtime: "1 heure"
+ bakingtime: "30 minutes"
+ bakingtemperature: ""
+ portion: ""
 source: ""
 image: ""
 ingredients:

@@ -1,11 +1,12 @@
 ---
 name: "Salade Thaï"
 category: "Plats Froids"
-preparationtime: "30 minutes"
-waitingtime: ""
-bakingtime: ""
-bakingtemperature: ""
-portion: "4 personnes"
+meta:
+ preparationtime: "30 minutes"
+ waitingtime: ""
+ bakingtime: ""
+ bakingtemperature: ""
+ portion: "4 personnes"
 source: "Dav"
 image: "salade_thai"
 ingredients:

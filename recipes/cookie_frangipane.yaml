@@ -1,11 +1,12 @@
 ---
 name: "Cookies façon frangipane"
 category: "Goûters"
-preparationtime: "20 minutes"
-waitingtime: ""
-bakingtime: "20 minutes"
-bakingtemperature: "185°C"
-portion: "16 cookies"
+meta:
+ preparationtime: "20 minutes"
+ waitingtime: ""
+ bakingtime: "20 minutes"
+ bakingtemperature: "185°C"
+ portion: "16 cookies"
 source: "www.deliacious.com"
 image: ""
 ingredients:

@@ -1,11 +1,12 @@
 ---
 name: "Mochi"
 category: "Goûters"
-preparationtime: "20 minutes"
-waitingtime: ""
-bakingtime: ""
-bakingtemperature: ""
-portion: ""
+meta:
+ preparationtime: "20 minutes"
+ waitingtime: ""
+ bakingtime: ""
+ bakingtemperature: ""
+ portion: ""
 source: ""
 image: ""
 ingredients:

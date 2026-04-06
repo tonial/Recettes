@@ -1,11 +1,12 @@
 ---
 name: "Tarte aux courgettes grillées, pignons et herbes"
 category: "Plats Chauds"
-preparationtime: "20 minutes"
-waitingtime: ""
-bakingtime: "40 minutes"
-bakingtemperature: ""
-portion: "4 personnes"
+meta:
+ preparationtime: "20 minutes"
+ waitingtime: ""
+ bakingtime: "40 minutes"
+ bakingtemperature: ""
+ portion: "4 personnes"
 source: "Vegan"
 image: ""
 ingredients:

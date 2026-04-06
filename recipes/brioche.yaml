@@ -1,11 +1,12 @@
 ---
 name: "Brioche"
 category: "Boulangerie"
-preparationtime: "20 minutes"
-waitingtime: "3 heures"
-bakingtime: "20 à 30 minutes"
-bakingtemperature: "180°C"
-portion: "4 personnes"
+meta:
+ preparationtime: "20 minutes"
+ waitingtime: "3 heures"
+ bakingtime: "20 à 30 minutes"
+ bakingtemperature: "180°C"
+ portion: "4 personnes"
 source: "senteuretsaveur.wordpress.com"
 image: ""
 ingredients:

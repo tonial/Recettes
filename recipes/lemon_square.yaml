@@ -1,11 +1,12 @@
 ---
 name: "Lemon square"
 category: "Desserts"
-preparationtime: "30 minutes"
-waitingtime: "2 heures"
-bakingtime: "40 minutes"
-bakingtemperature: ""
-portion: "8 personnes"
+meta:
+ preparationtime: "30 minutes"
+ waitingtime: "2 heures"
+ bakingtime: "40 minutes"
+ bakingtemperature: ""
+ portion: "8 personnes"
 source: ""
 image: ""
 ingredients:

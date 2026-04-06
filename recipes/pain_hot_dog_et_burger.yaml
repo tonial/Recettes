@@ -1,11 +1,12 @@
 ---
 name: "Pains à Hot-Dogs et Burgers"
 category: "Boulangerie"
-preparationtime: "30 minutes"
-waitingtime: "2 heures 30 minutes"
-bakingtime: "10 minutes"
-bakingtemperature: "220°C"
-portion: "4 personnes"
+meta:
+ preparationtime: "30 minutes"
+ waitingtime: "2 heures 30 minutes"
+ bakingtime: "10 minutes"
+ bakingtemperature: "220°C"
+ portion: "4 personnes"
 source: ""
 image: ""
 ingredients:

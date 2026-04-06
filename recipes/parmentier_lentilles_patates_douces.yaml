@@ -1,11 +1,12 @@
 ---
 name: "Parmentier de lentilles et patates douces."
 category: "Plats Chauds"
-preparationtime: "20 minutes"
-waitingtime: ""
-bakingtime: "20 minutes"
-bakingtemperature: ""
-portion: "6 personnes"
+meta:
+ preparationtime: "20 minutes"
+ waitingtime: ""
+ bakingtime: "20 minutes"
+ bakingtemperature: ""
+ portion: "6 personnes"
 source: "Vegan"
 image: ""
 ingredients:

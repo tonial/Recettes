@@ -1,11 +1,12 @@
 ---
 name: "Madeleines"
 category: "Goûters"
-preparationtime: "10 minutes"
-waitingtime: ""
-bakingtime: "10 minutes"
-bakingtemperature: "210°C"
-portion: ""
+meta:
+ preparationtime: "10 minutes"
+ waitingtime: ""
+ bakingtime: "10 minutes"
+ bakingtemperature: "210°C"
+ portion: ""
 source: ""
 image: ""
 ingredients:

@@ -1,11 +1,12 @@
 ---
 name: "Flan patissier"
 category: "Desserts"
-preparationtime: "10 minutes"
-waitingtime: ""
-bakingtime: "30 minutes"
-bakingtemperature: ""
-portion: "6 personnes"
+meta:
+ preparationtime: "10 minutes"
+ waitingtime: ""
+ bakingtime: "30 minutes"
+ bakingtemperature: ""
+ portion: "6 personnes"
 source: "Marmiton"
 image: ""
 ingredients:

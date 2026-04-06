@@ -1,11 +1,12 @@
 ---
 name: "Speculoos"
 category: "Goûters"
-preparationtime: "20 minutes"
-waitingtime: ""
-bakingtime: "15 minutes"
-bakingtemperature: "180 °C"
-portion: ""
+meta:
+ preparationtime: "20 minutes"
+ waitingtime: ""
+ bakingtime: "15 minutes"
+ bakingtemperature: "180 °C"
+ portion: ""
 source: ""
 image: ""
 ingredients:

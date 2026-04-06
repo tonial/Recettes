@@ -1,11 +1,12 @@
 ---
 name: "Risotto de magret de canard  à l'orange"
 category: "Plats Chauds"
-preparationtime: "20 minutes"
-waitingtime: ""
-bakingtime: "45 minutes"
-bakingtemperature: ""
-portion: "4 personnes"
+meta:
+ preparationtime: "20 minutes"
+ waitingtime: ""
+ bakingtime: "45 minutes"
+ bakingtemperature: ""
+ portion: "4 personnes"
 source: "www.papillesetpupilles.fr"
 image: ""
 ingredients:

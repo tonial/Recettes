@@ -1,11 +1,12 @@
 ---
 name: "Chili Con Carne"
 category: "Plats Chauds"
-preparationtime: "10 minutes"
-waitingtime: ""
-bakingtime: "20 minutes"
-bakingtemperature: ""
-portion: "4 personnes"
+meta:
+ preparationtime: "10 minutes"
+ waitingtime: ""
+ bakingtime: "20 minutes"
+ bakingtemperature: ""
+ portion: "4 personnes"
 source: ""
 image: ""
 ingredients:

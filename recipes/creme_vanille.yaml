@@ -1,11 +1,12 @@
 ---
 name: "Crèmes à la vanille"
 category: "Goûters"
-preparationtime: "20 minutes"
-waitingtime: "2 heures"
-bakingtime: ""
-bakingtemperature: ""
-portion: ""
+meta:
+ preparationtime: "20 minutes"
+ waitingtime: "2 heures"
+ bakingtime: ""
+ bakingtemperature: ""
+ portion: ""
 source: ""
 image: ""
 ingredients:

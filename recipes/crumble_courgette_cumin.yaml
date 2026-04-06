@@ -1,11 +1,12 @@
 ---
 name: "Crumble de courgettes au cumin"
 category: "Plats Chauds"
-preparationtime: "1 heure 15 minutes"
-waitingtime: ""
-bakingtime: "45 minutes"
-bakingtemperature: ""
-portion: "4 personnes"
+meta:
+ preparationtime: "1 heure 15 minutes"
+ waitingtime: ""
+ bakingtime: "45 minutes"
+ bakingtemperature: ""
+ portion: "4 personnes"
 source: "www.papillesetpupilles.fr"
 image: ""
 ingredients:

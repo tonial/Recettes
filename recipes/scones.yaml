@@ -1,11 +1,12 @@
 ---
 name: "Scones"
 category: "Goûters"
-preparationtime: "25 minutes"
-waitingtime: ""
-bakingtime: "15 minutes"
-bakingtemperature: ""
-portion: "6 personnes"
+meta:
+ preparationtime: "25 minutes"
+ waitingtime: ""
+ bakingtime: "15 minutes"
+ bakingtemperature: ""
+ portion: "6 personnes"
 source: "Jamie Oliver"
 image: ""
 ingredients:
