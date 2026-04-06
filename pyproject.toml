@@ -1,0 +1,48 @@
+[project]
+name = "Livre-de-recettes"
+dynamic = ["version"]
+requires-python = ">=3.13"
+authors = []
+dependencies = [
+    "jinja2>=3.1.6",
+]
+
+[dependency-groups]
+dev = [
+    "djlint>=1.36.4",
+    "ruff>=0.15.9",
+]
+
+[tool.setuptools]
+packages = ["script"]
+
+
+[tool.ruff]
+line-length = 119
+
+[tool.ruff.lint]
+# see prefixes in https://beta.ruff.rs/docs/rules/
+select = [
+    "F",  # pyflakes
+    "E",  # pycodestyle errors
+    "W",  # pycodestyle warnings
+    "I",  # isort
+    "UP",  # pyupgrade
+    "TID",  # flake8-tidy-imports
+]
+
+[tool.ruff.lint.isort]
+combine-as-imports = true
+lines-after-imports = 2
+
+[tool.ruff.lint.flake8-tidy-imports]
+ban-relative-imports = "all"
+
+[tool.djlint]
+profile="django"
+ignore="H006,H014,H017,H023,H030,H031,T002,T003"
+# partialdef is added below as a workaround for this issue: https://github.com/djlint/djLint/issues/1556
+max_attribute_length=200
+preserve_blank_lines=true
+format_css = true
+format_js = true
