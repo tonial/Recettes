@@ -39,8 +39,16 @@ body {
   }
 }
 
+.a, a:link, a:visited, a:hover, a:focus, a:active{
+  color: var(--berry-light);
+  text-decoration: none;
+}
 
 /* Header */
+.nav-link {
+  padding: 0 0 1em 0;
+}
+
 .header {
   text-align: center;
   margin-bottom: 40px;
@@ -131,7 +139,6 @@ h1 {
   font-weight: 500;
   color: var(--blueberry);
 }
-
 
 /* Ingredients */
 .ingredients {
