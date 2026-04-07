@@ -9,7 +9,7 @@ meta:
 source: "allrecipes.com"
 image: ""
 ingredients:
- - "\\textbf{Muffin}"
+ - "|Muffin"
  - "200 g de farine"
  - "60 g de sucre"
  - "150 g de myrtilles"
@@ -18,8 +18,7 @@ ingredients:
  - "1 œuf"
  - "80 ml d'huile de tournesol"
  - "80 ml de lait"
- - ""
- - "\\textbf{Crumb topping}"
+ - "|Crumb topping"
  - "60 g de farine"
  - "30 g de sucre"
  - "45 g de buerre"

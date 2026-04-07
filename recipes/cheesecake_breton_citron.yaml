@@ -9,11 +9,10 @@ meta:
 source: "www.cuisine-campagne.com"
 image: ""
 ingredients:
- - "\\textbf{Pâte sablée}"
+ - "|Pâte sablée"
  - "1 paquet de galettes Mont Saint-Michel (120 g)"
  - "60 g de beurre"
- - ""
- - "\\textbf{Appareil}"
+ - "|Appareil"
  - "250 g fde romage blanc en faisselle"
  - "50 g cde rème fraiche"
  - "4 kiri"
@@ -22,8 +21,7 @@ ingredients:
  - "3 œufs"
  - "4 feuilles de gélatine"
  - "1.5 citrons"
- - ""
- - "\\textbf{Nappage}"
+ - "|Nappage"
  - "150g de caramel beure salé (voir recette)"
 steps:
  - "Faites tremper la gélatine dans un bol d'eau froide. Egouttez la faisselle dans un torchon propre."

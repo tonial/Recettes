@@ -9,7 +9,7 @@ meta:
 source: "www.deliacious.com"
 image: ""
 ingredients:
- - "\\textbf{cookies}"
+ - "|cookies"
  - "80g d'huile"
  - "60 g de sucre"
  - "70 g d'eau"
@@ -18,8 +18,7 @@ ingredients:
  - "1/2 cuil. à café de levure chimique"
  - "1/2 cuil. à café de sel"
  - "(70 g d'amandes torréfiées)"
- - ""
- - "\\textbf{Crème d'amandes}"
+ - "|Crème d'amandes"
  - "40 g de beurre pommade"
  - "10 g de sucre"
  - "40 g poudre d'amandes"

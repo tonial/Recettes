@@ -9,7 +9,7 @@ meta:
 source: ""
 image: ""
 ingredients:
- - "\\textbf{Pâte à gateau}"
+ - "|Pâte à gateau"
  - "1 pot de yaourt"
  - "1 pots de sucre"
  - "3 pots de farine"
@@ -20,8 +20,7 @@ ingredients:
  - "20g de beurre"
  - "20g de lait"
  - "extrait de vanille"
- - ""
- - "\\textbf{Sirop}"
+ - "|Sirop"
  - "30g d'eau"
  - "15g de sucre"
 steps:
