@@ -25,4 +25,5 @@ steps:
  - "Vous pouvez à présent mettre la pâte au frais pour 15 minutes. Et c'est le moment pour mettre le four à préchauffer ! (200°C à chaleur tournante)"
  - "Roulez la pâte sur une surface farinée jusqu'à ce qu'elle fasse 2 cm d'épaisseur. Coupez des ronds de 6 cm de diamètre (à l'aide un emporte pièce, ou à défaut d'un verre). Placez les à l'envers sur la plaque de cuisson. Il paraît qu'ils montent mieux de cette manière. Badigeonez les scones avec du lait, du beurre ou du jus d'orange pour qu'il dorent au four."
  - "Enfournez pour 12 à 15 minutes. Le bon moment pour les sortir c'est quand ils ont bien monté et sont dorés (comme sur la photo si elle est là). Vous pouvez à présent les sortir du four et les laisser refroidir un peu avant de les servir avec de la confiture, du beurre ou de la clotted cream."
-hint: "Vous pouvez congeler les scones découpés pour en concerver pour plus tard. Cela permet de les cuire le matin au petit déjeuner, ou en revenant du boulot !"
+hints:
+ - "Vous pouvez congeler les scones découpés pour en concerver pour plus tard. Cela permet de les cuire le matin au petit déjeuner, ou en revenant du boulot !"

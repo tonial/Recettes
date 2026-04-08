@@ -23,4 +23,6 @@ steps:
  - "Divisez la pâte en trois, farinez le plan de travail avec de la semoule fine de blé dur."
  - "Étalez une boule, huilez et ajoutez eventuellement des garnitures (jambon, parmezan, herbes) ou préparez une pizza !"
  - "Enfourner pour quelques minutes (surveiller car cela dépend beaucoup de l'épaisseur de la pâte). C'est l'étape difficile de la recette."
-hint: "Pour la farine, on peut prendre de la farine à pizza (blé Manitoba) ou un mélange de farine avec une farine plus complète (110/150)."
+hints:
+ - "Pour la farine, on peut prendre de la farine à pizza (blé Manitoba) ou un mélange de farine avec une farine plus complète (110/150)."
+ - "Niveau garniture, vous pouvez juste mettre un mélange huile d'olive/eau et un peu de parmesan et d'organ pour faire une foccacia toute simple."

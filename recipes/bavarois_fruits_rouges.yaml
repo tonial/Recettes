@@ -24,4 +24,5 @@ steps:
  - "Faites chauffer dans une casserole le coulis et ajoutez-y la gelatine préalablement ramollie dans de l'eau froide. Versez ensuite dans un bol et attendez que cela refroidisse."
  - "Une fois la génoise et le coulis froid mélangez la crème fraiche battue en chantilly au coulis et versez le tout sur la génoise. Laissez le gateau au frais une nuit."
  - "Le lendemain faites fondre la gelée avec la gélatine laissez refroisir un peu puis glacez le haut du gateau au pinceau. Laissez au frais une heure avant de servir."
-hint: "Vous pouvez faire deux couches de mousse (avec 250g de coulis de chaque). Par exemple fruits de la passion et framboise."
+hints:
+ - "Vous pouvez faire deux couches de mousse (avec 250g de coulis de chaque). Par exemple fruits de la passion et framboise."

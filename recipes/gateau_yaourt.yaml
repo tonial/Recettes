@@ -20,4 +20,5 @@ steps:
  - "Faites préchauffer le four à 150°C"
  - "Dans un récipient mélangez les ingrédients jusqu'à obtention d'une pâte homogène."
  - "Beurrez le moule et versez-y la pâte avant de l'enfourner."
-hint: "Vous pouvez jouter un fruit coupé en morceaux (pomme poire kiwi ou autre) avec éventuellement un sachet de sucre vaniellé selon le fruit utilisé."
+hints:
+ - "Vous pouvez jouter un fruit coupé en morceaux (pomme poire kiwi ou autre) avec éventuellement un sachet de sucre vaniellé selon le fruit utilisé."

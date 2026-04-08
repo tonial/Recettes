@@ -57,6 +57,20 @@
                     </li>
                 {% endfor %}
             </ol>
+            {% if hints %}
+                <div class="divider">
+                    <div class="divider-line"></div>
+                    <span class="divider-label">Conseils</span>
+                    <div class="divider-line"></div>
+                </div>
+                <ol class="steps">
+                    {% for hint in hints %}
+                        <li class="step">
+                            <p class="step-text">{{ hint }}</p>
+                        </li>
+                    {% endfor %}
+                </ol>
+            {% endif %}
         </article>
     </body>
 </html>

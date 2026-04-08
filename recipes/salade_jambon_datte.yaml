@@ -19,4 +19,5 @@ ingredients:
 steps:
  - "Émincez les dates et la fêta en petits dés et découpez le jambon en fins rectangles. Disposez la frisée dans les assiettes suivie de la fêta de dates et pour finir du jambon."
  - "Mélangez le vinaigre et la moutarde puis ajoutez l'huile et émulsionnez le tout. Versez la sauce obtenue sur les assiettes."
-hint: "Parfait pou accompagner une tartine au chèvre chaud."
+hints:
+ - "Parfait pou accompagner une tartine au chèvre chaud."
