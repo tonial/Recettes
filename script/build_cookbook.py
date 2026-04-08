@@ -92,7 +92,9 @@ if __name__ == "__main__":
 
     # Parsing recipes files
     print("Parsing recipes files...")
-    files = [f for f in os.listdir(RECIPES_DIR) if os.path.isfile(os.path.join(RECIPES_DIR, f))]
+    files = [
+        f for f in os.listdir(RECIPES_DIR) if os.path.isfile(os.path.join(RECIPES_DIR, f)) and not f.startswith("_")
+    ]
 
     recipes = {cat: [] for cat in CATEGORIES}
 
