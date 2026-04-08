@@ -23,4 +23,5 @@ steps:
  - "Préchauffez le four à 180°C."
  - "Roulez la pâte et coupez les biscuits à l'aide d'emporte pièces."
  - "Mettre au four pendant 15 minutes."
-hint: "Pour faire un granola, emiettez sur la plaque de cuisson et ne laissez cuire que 10 minutes."
+hints:
+ - "Pour faire un granola, emiettez sur la plaque de cuisson et ne laissez cuire que 10 minutes."

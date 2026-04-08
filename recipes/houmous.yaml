@@ -20,4 +20,5 @@ steps:
  - "Une fois que le mélange est lisse ajoutez l'huile et continuez à mixer."
  - "Broyez l'ail à l'aide d'un presse ail et ajoutez-le ainsi que le Tahiné. Mixez à nouveau."
  - "Enfin ajouter du jus des pois-chiche jusqu'à obtention de la bonne consistance."
-hint: "Accompagnez de pignons de pain grillés ainsi que de viande de veau cuite avec des épices pour obtenir une entrée plus consistante."
+hints:
+ - "Accompagnez de pignons de pain grillés ainsi que de viande de veau cuite avec des épices pour obtenir une entrée plus consistante."

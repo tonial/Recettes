@@ -20,4 +20,5 @@ steps:
  - "Faites préchauffer le four à 150°C"
  - "Dans un récipient mélangez les ingrédients jusqu'à obtention d'une pâte homogène."
  - "Beurrez le moule et versez-y la pâte avant de l'enfourner."
-hint: "Vous pouvez ajouter des morceaux de fruits (pomme, poire, kiwi, etc)."
+hints:
+ - "Vous pouvez ajouter des morceaux de fruits (pomme, poire, kiwi, etc)."

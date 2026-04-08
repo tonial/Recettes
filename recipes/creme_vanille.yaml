@@ -19,4 +19,5 @@ steps:
  - "Pendant ce temps, mélangez le reste du lait, les œufs et la maizena dans un bol."
  - "Retirez les morceux de vanille s'il y en a et versez le mélange avec les œufs dans la casserole de lait chaud."
  - "Laissez cuir jusqu'à ce que le mélange epaississe bien puis versez dans des petits pots en verre que vous stockerez au réfrigérateur au moins 2 heures."
-hint: "Attention, les pots disparaissent très vite."
+hints:
+ - "Attention, les pots disparaissent très vite."

@@ -23,4 +23,5 @@ steps:
  - "Faites fondre le miel au micro-onde. Dans un bol mélangez farine épices et levure et incorporez ce mélange au miel."
  - "Ajoutez les œufs un à un en remuant bien. Si la pâte est un peu dense ajoutez du lait tiède (afin que le miel ne fige pas)"
  - "Faites cuire au four 40 minutes. À consommer chaud ou froid sans modération."
-hint: "On peut utiliser tout type de farine pour cette recette (sarasin chateigne seigle etc). Il est également possible de rajouter des écorces d'orange."
+hints:
+ - "On peut utiliser tout type de farine pour cette recette (sarasin chateigne seigle etc). Il est également possible de rajouter des écorces d'orange."

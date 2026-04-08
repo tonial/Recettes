@@ -21,4 +21,5 @@ steps:
  - "Ajoutez la première préparation et mélangez jusqu'à obtention d'une pâte légèrement grumeleuse."
  - "Trempez les ingrédients dans la pâte avant de les plonger dans l'huile bouillante jusqu'à ce qu'ils soient bien dorés. Ne mettez pas trop de tempuras à la fois pour que l'huile de refroidisse pas trop."
  - "Posez sur un morceau de sopalin les tempuras cuits pour absorber le surplu d'huile. Servez immédiatement ou concervez au chaud (au four à 60°C) le temps de finir les fritures."
-hint: "Il est possible d’utiliser toute sortes d’ingrédients : légumes de tout types (oignon aubergine algues etc) fruits (pommes etc) et même du poisson (la chaire ou bien la peau). Il faut juste veiller à ce que les morceaux soient suffisemment petits pour être bien cuits."
+hints:
+ - "Il est possible d’utiliser toute sortes d’ingrédients : légumes de tout types (oignon aubergine algues etc) fruits (pommes etc) et même du poisson (la chaire ou bien la peau). Il faut juste veiller à ce que les morceaux soient suffisemment petits pour être bien cuits."
