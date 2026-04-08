@@ -1,0 +1,15 @@
+---
+name: ""
+category: "" # see build_cookbook.py CATEGORIES list
+meta:
+ preparationtime: ""
+ waitingtime: ""
+ bakingtime: ""
+ portion: ""
+source: ""
+image: "" # unused for now
+ingredients:
+ - ""
+steps:
+ - ""
+hint: ""
