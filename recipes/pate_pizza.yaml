@@ -1,5 +1,5 @@
 ---
-name: "Foccacia"
+name: "Pâte à pizza"
 category: "Boulangerie"
 meta:
  preparationtime: "30 minutes"
@@ -23,4 +23,4 @@ steps:
  - "Divisez la pâte en trois, farinez le plan de travail avec de la semoule fine de blé dur."
  - "Étalez une boule, huilez et ajoutez eventuellement des garnitures (jambon, parmezan, herbes) ou préparez une pizza !"
  - "Enfourner pour quelques minutes (surveiller car cela dépend beaucoup de l'épaisseur de la pâte). C'est l'étape difficile de la recette."
-hint: "Pour la farine, on peut prendre de la farine à pizza (blé Manitoba) ou un mélabge de farine avec une farine plus complète (110/150)."
+hint: "Pour la farine, on peut prendre de la farine à pizza (blé Manitoba) ou un mélange de farine avec une farine plus complète (110/150)."
