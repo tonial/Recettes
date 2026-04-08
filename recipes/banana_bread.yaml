@@ -2,19 +2,19 @@
 name: "Banana Bread"
 category: "Goûters"
 meta:
- preparationtime: "20 minutes"
+ preparationtime: "15 minutes"
  waitingtime: ""
  bakingtime: "45 minutes"
  portion: "8 personnes"
 source: ""
 image: ""
 ingredients:
- - "50 g de sucre"
+ - "40 g de sucre"
  - "200 g de farine"
  - "60 g de beurre fondu"
  - "1 sachet de levure chimique"
  - "2 œufs"
- - "3 bananes"
+ - "2 bananes"
  - "1 pincée de sel"
 steps:
  - "Faites préchauffer le four à 180°C."
