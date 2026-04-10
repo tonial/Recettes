@@ -6,6 +6,7 @@ meta:
  waitingtime: ""
  bakingtime: "20 minutes"
  portion: "16 cookies"
+tags:
 source: "www.deliacious.com"
 image: ""
 ingredients:

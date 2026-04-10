@@ -78,7 +78,13 @@ class CookBookGenerator:
         with open(os.path.join(self.site_dir, html_file), "w") as f:
             f.write(self.recipe_template.render(**data))
 
-        self.recipes[data["category"]].append({"name": data["name"], "filename": html_file})
+        self.recipes[data["category"]].append(
+            {
+                "name": data["name"],
+                "filename": html_file,
+                "tags": data["tags"] or [],
+            }
+        )
 
     def process_index(self):
         for cat in CATEGORIES:

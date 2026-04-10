@@ -6,6 +6,7 @@ meta:
  waitingtime: ""
  bakingtime: ""
  portion: ""
+tags:
 source: ""
 image: "" # unused for now
 ingredients:

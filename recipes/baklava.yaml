@@ -6,6 +6,7 @@ meta:
  waitingtime: "24 heures"
  bakingtime: "35 minutes"
  portion: "8 personnes"
+tags:
 source: ""
 image: "baklava"
 ingredients:

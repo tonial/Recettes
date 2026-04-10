@@ -6,6 +6,7 @@ meta:
  waitingtime: "30 minutes"
  bakingtime: "25 minutes"
  portion: "18 sablés"
+tags:
 source: ""
 image: ""
 ingredients:
