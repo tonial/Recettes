@@ -6,6 +6,8 @@ meta:
  waitingtime: ""
  bakingtime: "40 minutes"
  portion: "4 personnes"
+tags:
+ - quick
 source: ""
 image: ""
 ingredients:

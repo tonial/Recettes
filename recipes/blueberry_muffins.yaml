@@ -6,6 +6,7 @@ meta:
  waitingtime: ""
  bakingtime: "25 minutse"
  portion: "8 gros muffins"
+tags:
 source: "allrecipes.com"
 image: ""
 ingredients:

@@ -6,6 +6,7 @@ meta:
  waitingtime: ""
  bakingtime: "50 minutes"
  portion: "8 personnes"
+tags:
 source: "www.marmiton.org"
 image: "cake_dattes"
 ingredients:

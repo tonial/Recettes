@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>{{ name }}</title>
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+        <link href="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/fonts/remixicon.css" rel="stylesheet" />
         <style></style>
         <link rel="stylesheet" href="theme.css">
     </head>
@@ -25,11 +26,25 @@
                         {% for recipe in recipes %}
                             <li>
                                 <a href="{{ recipe.filename }}">{{ recipe.name }}</a>
+                                {% if "quick" in recipe.tags %}
+                                    {% include "tags/quick.html" %}
+                                {% endif %}
                             </li>
                         {% endfor %}
                     </ul>
                 </div>
             {% endfor %}
+            <div class="divider">
+                <div class="divider-line"></div>
+                <span class="divider-label">Icones</span>
+                <div class="divider-line"></div>
+            </div>
+            <ul class="recipes-list">
+                <li>
+                    {% include "tags/quick.html" %}
+                    : recette rapide
+                </li>
+            </ul>
         </article>
     </body>
 </html>

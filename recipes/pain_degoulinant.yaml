@@ -6,6 +6,7 @@ meta:
  waitingtime: ""
  bakingtime: "45 nimutes"
  portion: "6 personnes"
+tags:
 source: "www.amusesbouche.fr"
 image: "pain_degoulinant_ext"
 ingredients:
