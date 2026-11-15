@@ -1,0 +1,12 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "overrides": [
+    {
+      "filename": "**/*.md",
+      "language": "fr"
+    }
+  ],
+  "ignorePaths": [".venv", "_site", "uv.lock"],
+  "words": ["preparationtime", "waitingtime", "bakingtime"]
+}
