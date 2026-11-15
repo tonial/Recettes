@@ -27,4 +27,4 @@ image: ""
 
 ## Conseils
 
-- Vous pouvez émieter des morceau d'œufs durs ou de jambon cru dessus avant de déguster.
+- Vous pouvez émietter des morceau d'œufs durs ou de jambon cru dessus avant de déguster.

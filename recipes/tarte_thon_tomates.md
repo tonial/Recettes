@@ -22,5 +22,5 @@ image: ""
 ## Préparation
 
 1. Préchauffez le four à 180°C. Pendant ce temps mélangez le thon la pulpe de tomate et la moutarde dans un récipient.
-2. Etalez la pâte dans un moule et verser le mélange dessus. Parsemez le fromage rapé et enfournez pour une vingtaine de minutes.
+2. Étalez la pâte dans un moule et verser le mélange dessus. Parsemez le fromage râpé et enfournez pour une vingtaine de minutes.
 3. C'est déjà prêt !

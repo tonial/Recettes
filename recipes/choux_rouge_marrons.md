@@ -23,5 +23,5 @@ image: ""
 ## Préparation
 
 1. Émincez le choux. Blanchissez-le en le mettant dans une casserole d'eau froide que vous mettez à chauffez. Lorsque celle-ci boue égouttez le choux. Pendant ce temps émincez les oignons et coupez les pommes en morceaux.
-2. Faites dégraisser les lardons puis présevez les de coté.
+2. Faites dégraisser les lardons puis préservez les de coté.
 3. Faites fondre les oignons avec un filet d'huile. Une fois devenu translucides ajoutez tous les ingrédients mélangez un peu et laissez cuire à feu moyen pendant 45 minutes.

@@ -32,7 +32,7 @@ image: ""
 ## Préparation
 
 1. Préchauffez le four à 140°C (thermostat 6).
-2. Broyez les biscuits puis ajoutez le beurre préalablement fondu. Tapissez le fond d'un moule a crémaillère de 26 cm de diametre environ. Faites cuire la pate 15 minutes avant de la laisser reposer jusqu'à ce qu'elle soit à température ambiante.
+2. Broyez les biscuits puis ajoutez le beurre préalablement fondu. Tapissez le fond d'un moule a crémaillère de 26 cm de diamètre environ. Faites cuire la pâte 15 minutes avant de la laisser reposer jusqu'à ce qu'elle soit à température ambiante.
 3. Pendant ce temps fouettez les fromages (St Môret et petit-suisses) et le sucre jusqu'à obtention d'une crème lisse. Incorporez-y les œufs uns par uns. Faites fondre la moitié du chocolat blanc (100 g) et incorporez-le à la crème suivit par les fruits.
 4. Une fois la pâte suffisamment refroidie versez le mélange obtenu dans le moule et enfournez pour une heure de cuisson. A la fin de celle-ci laisser le cheesecake reposer dans le four ouvert (et éteint) pendant une heure de plus.
-5. Rapez le chocolat blanc restant à l'aide d'un économe et disposez les copeaux obtenus sur le cheescake disposer quelques framboises et myrtilles sur le dessus pour la décoration. Enfin laissez reposer une nuit au réfrigérateur.
+5. Râpez le chocolat blanc restant à l'aide d'un économe et disposez les copeaux obtenus sur le cheesecake disposer quelques framboises et myrtilles sur le dessus pour la décoration. Enfin laissez reposer une nuit au réfrigérateur.

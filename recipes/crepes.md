@@ -23,4 +23,4 @@ image: ""
 
 1. Mélangez tous les ingrédients dans un bol en évitant les grumeaux. Puis laissez reposer une heure au réfrigérateur.
 2. Ajoutez de l'eau avant de cuire si la pâte est trop épaisse.
-3. Une fois cuites, empilez les crèpes sur une grande assiette en les recouvrant d'un torchon pour qu'elles ne sèches pas.
+3. Une fois cuites, empilez les crêpes sur une grande assiette en les recouvrant d'un torchon pour qu'elles ne sèches pas.

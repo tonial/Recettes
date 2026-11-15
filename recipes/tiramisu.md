@@ -25,4 +25,4 @@ image: ""
 
 1. Battez le sucre l'alcool et les jaunes d’œufs jusqu'à ce que le mélange blanchisse. Ajoutez ensuite le mascarpone au mélange.
 2. Montez les blancs en neige (ajoutez une pincée de sel pour plus de facilité) et incorporez-les au mélange précédent.
-3. Alternez dans le plats des couches de biscuit à la cuiller trempés dans le café tiède et des couches du mélange soupoudré de cacao en poudre. On commencera par une couche de biscuit et l’on terminera par une couche de crème. Pour les quantités indiquées dans la recette : environ 3 couches de chaque.
+3. Alternez dans le plats des couches de biscuit à la cuiller trempés dans le café tiède et des couches du mélange saupoudré de cacao en poudre. On commencera par une couche de biscuit et l’on terminera par une couche de crème. Pour les quantités indiquées dans la recette : environ 3 couches de chaque.

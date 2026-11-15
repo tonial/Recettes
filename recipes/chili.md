@@ -21,12 +21,12 @@ image: ""
 - 3 cuil. à café de paprika fumé
 - 1 cuil. à café de cumin
 - 1 cuil. à café d'origan
-- 300 g de viande hachée de boeuf (optionnel)
+- 300 g de viande hachée de bœuf (optionnel)
 - 2 poivrons rouges (optionnel)
 
 ## Préparation
 
 1. Hachez l'oignon et l'ail et faites revenir dans de l'huile d'olive dans une casserole.
 2. Ajoutez la viande hachée et les poivrons en cubes si vous en voulez.
-3. Ajoutez tous les autres ingrédients en prennant soin de rincer les haricots et le mais.
+3. Ajoutez tous les autres ingrédients en prenant soin de rincer les haricots et le mais.
 4. Laissez cuire 10 minutes au moins puis servez accompagné de riz ou de tortillas.

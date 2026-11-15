@@ -15,7 +15,7 @@ image: ""
 
 - 200 g de lentilles vertes
 - 1,5 kg de patates douces
-- 2 échalottes
+- 2 échalotes
 - 2 gousses d'ail
 - 2 cuil. à soupe d'huile d'olive
 - 50 ml crème de soja
@@ -25,8 +25,8 @@ image: ""
 
 ## Préparation
 
-1. Préchauffez le four à 180°C. Cuisez les lentilles dans une caserolle d'eau avec le cube de bouillon pendant 20 minutes.
-2. Epluchez et coupez en morceaux les patates douces, puis faites les cuire dans une casserole d'eau.
-3. Faites chauffer l'huilre dans une pole, puis faites revenir les échalottes et l'ail émincés. Ajoutez les lentilles et laisser cuire 5 à 10 minutes, puis répartissez les dans le moule à gratins.
-4. Egoutez les patates douces, et réduisez les en purée que vous étalerez au dessus des lentilles en prenant soin de bien tasser.
+1. Préchauffez le four à 180°C. Cuisez les lentilles dans une casserole d'eau avec le cube de bouillon pendant 20 minutes.
+2. Épluchez et coupez en morceaux les patates douces, puis faites les cuire dans une casserole d'eau.
+3. Faites chauffer l'huile dans une pole, puis faites revenir les échalotes et l'ail émincés. Ajoutez les lentilles et laisser cuire 5 à 10 minutes, puis répartissez les dans le moule à gratins.
+4. Égouttez les patates douces, et réduisez les en purée que vous étalerez au dessus des lentilles en prenant soin de bien tasser.
 5. Mélangez la crème de soja et la ricotta et étalez sur le dessus du parmentier. Enfournez pour 15 minutes puis passez quelques minutes sous le grill pour gratiner.

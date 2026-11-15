@@ -38,6 +38,6 @@ image: ""
 1. Mélangez ensemble l'huile le sucre et l'eai jusqu'à ce que le sucre soit bien dissout.
 2. Ajoutez la farine, la poudre d'amandes, la levure et le sel, puis mélangez pour obtenir une pâte bien homogène.
 3. Vous pouvez ajouter des amandes torréfiées en les concassant grossièrement.
-4. Laissez reposer la pâte une dizaine de minutes pour qu'elle colle moins. Faites des boules de ~30 g que vous applatissez un peu sur la plaque.
-5. Préparez la crème d'amandes en travaillant le beurre a température ambiante avec le sucre. Ajoutez ensuite la poudre d'amandes, l'oeuf et le rhum en mélangeant bien.
+4. Laissez reposer la pâte une dizaine de minutes pour qu'elle colle moins. Faites des boules de ~30 g que vous aplatissez un peu sur la plaque.
+5. Préparez la crème d'amandes en travaillant le beurre a température ambiante avec le sucre. Ajoutez ensuite la poudre d'amandes, l'œuf et le rhum en mélangeant bien.
 6. Disposez sur les cookies avec une petite cuillère puis enfournez à 185°C pendant 20 minutes environ.

@@ -19,17 +19,17 @@ image: ""
 - 50 g de poudre d'amandes
 - 1 œuf
 - 1 pincée de sel
-- 1 cuill. à café bombée de canelle
+- 1 cuill. à café bombée de cannelle
 - 1 cuill. à café bombée de mélange à chaï
 
 ## Préparation
 
 1. Mélangez tous les ingrédients dans un saladier et roulez en une grosse boule.
-2. Laissez reponser au réfrigérateur 15 minutes.
+2. Laissez reposer au réfrigérateur 15 minutes.
 3. Préchauffez le four à 180°C.
 4. Roulez la pâte et coupez les biscuits à l'aide d'emporte pièces.
 5. Mettre au four pendant 15 minutes.
 
 ## Conseils
 
-- Pour faire un granola, emiettez sur la plaque de cuisson et ne laissez cuire que 10 minutes.
+- Pour faire un granola, émiettez sur la plaque de cuisson et ne laissez cuire que 10 minutes.

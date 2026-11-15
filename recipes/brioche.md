@@ -29,6 +29,6 @@ image: ""
 4. Retirez le crochet, faites une belle boule avec la pâte à brioche, et remettez-la dans le bol du robot. Recouvrez le bol d’un torchon propre et placez-le dans un endroit chaud (près d’un radiateur ou de la cheminée). Laissez ainsi pousser 1h30 à 2h. La pâte doit doubler de volume.
 5. Une fois cette première pousse terminée, farinez légèrement votre plan de travail propre. Mettez-y la boule de pâte et dégazez-la avec le poing. Cela permet de chasser les bulles d’air contenues dans la pâte pour permettre une bonne levée lors de la deuxième pousse.
 6. On passe à présent au façonnage. Si la pâte colle un peu, n'hésitez pas à ajouter un peu de farine. On peut faire 3 boudins et tresser, ou 3 à 6 boules que l'on dispose en quinconces dans un moule à cake.
-7. Remettez à lever pour 30 minutes. Enfin, madigeonnez d'un peu de lait pour faire une dorure (ou d'un jaune d'œuf).
+7. Remettez à lever pour 30 minutes. Enfin, badigeonnez d'un peu de lait pour faire une dorure (ou d'un jaune d'œuf).
 8. Enfournez à four froid, et allumez à 180°C chaleur tournante. Laissez cuire 40 minutes jusqu'à ce qu'elle prenne une belle couleur dorée.
 9. Une fois cuite, laissez la brioche refroidir sur une grille un petit quart d'heure avant de la dévorer.

@@ -21,13 +21,13 @@ image: ""
 - 1 pâte feuilleté
 - 200 ml de crème de soja
 - 2 cuil. à soupe de moutarde de Dijon
-- 1 cuil. à café d'herbes de provence
+- 1 cuil. à café d'herbes de Provence
 - sel, poivre
 
 ## Préparation
 
-1. Faites chauffer le four à 180°C et faites précuire à blanc la pate feuilleté dans un moule à tarte.
-2. Coupez les courgettes en fines rondelles et emincez l'ail. Faites revenir quelques minutes à feu vif dans une grande poêle avec l'huile, jusqu'à ce que les courgettes soient bien dorées.
+1. Faites chauffer le four à 180°C et faites précuire à blanc la pâte feuilleté dans un moule à tarte.
+2. Coupez les courgettes en fines rondelles et émincez l'ail. Faites revenir quelques minutes à feu vif dans une grande poêle avec l'huile, jusqu'à ce que les courgettes soient bien dorées.
 3. Ajoutez le jus de citron et les pignons de pin et laissez cuire deux minutes de plus avant de retirer du feu.
-4. Dans un bol, mélangez la crème, la moutarde et les herbes de provence. Etalez ce mélange sur la pate feuilleté puis repartissez les courgettes et les pignons de pin.
-5. Effournez pour 25 dans le four, toujours à 180°C.
+4. Dans un bol, mélangez la crème, la moutarde et les herbes de Provence. Étalez ce mélange sur la pâte feuilleté puis repartissez les courgettes et les pignons de pin.
+5. Enfournez pour 25 dans le four, toujours à 180°C.

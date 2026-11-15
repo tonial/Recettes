@@ -18,10 +18,10 @@ image: ""
 - 50 ml de lait
 - 1 sachet de levure chimique
 - 3 œufs
-- 2 cuil. à café de muscade rapée
+- 2 cuil. à café de muscade râpée
 - 2 cuil. à café d'anis vert
 - 2 cuil. à café de gingembre
-- 2 cuil. à café de canelle
+- 2 cuil. à café de cannelle
 
 ## Préparation
 
@@ -32,4 +32,4 @@ image: ""
 
 ## Conseils
 
-- On peut utiliser tout type de farine pour cette recette (sarasin chateigne seigle etc). Il est également possible de rajouter des écorces d'orange.
+- On peut utiliser tout type de farine pour cette recette (sarrasin châtaigne seigle etc). Il est également possible de rajouter des écorces d'orange.

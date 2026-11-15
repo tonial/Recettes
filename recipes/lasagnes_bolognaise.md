@@ -45,5 +45,5 @@ image: ""
 5. Continuez à remuer jusqu'à ce que le mélange s'épaississe. Ensuite parfumez avec la muscade et le sel.
 6. Ajoutez le tofu rosso émietté à la bolognaise.
 7. Huilez le plat puis versez une fine couche de béchamel. Ensuite alternez lasagnes bolognaise béchamel 4 fois de suite.
-8. Finissez par une 5ème épaisseur de lasagnes avec de la bechamel et la mozzarella en morceaux.
+8. Finissez par une 5ème épaisseur de lasagnes avec de la béchamel et la mozzarella en morceaux.
 9. Enfournez pour 40 minutes.

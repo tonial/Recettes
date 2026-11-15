@@ -9,7 +9,7 @@ source: "Marmiton"
 image: ""
 ---
 
-# Flan patissier
+# Flan pâtissier
 
 ## Ingrédients
 
@@ -22,7 +22,7 @@ image: ""
 
 ## Préparation
 
-1. Préchauffez le foir à 180°C.
+1. Préchauffez le four à 180°C.
 2. Faire bouillir le lait avec la gousse de vanille fendue (dans le sens de la longueur). Attention : pensez à retirer du sucre si le lait est naturellement sucré.
 3. Pendant ce temps, mélanger la Maïzena avec le sucre, puis avec les œufs jusqu'à ce que le mélange soit bien homogène.
 4. Ajoutez au lait en mélangeant bien et continuez de mélanger à feu doux jusqu'à ce que le mélange épaississe.

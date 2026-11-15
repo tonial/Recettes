@@ -24,6 +24,6 @@ image: ""
 ## Préparation
 
 1. Faites préchauffer le four à 180°C.
-2. Écrasez les bananes avec le sucre. Ajoutez les oeufs et le beurre fondu.
+2. Écrasez les bananes avec le sucre. Ajoutez les œufs et le beurre fondu.
 3. Mélangez à part la farine le sel et la levure. Puis ajoutez le tout au mélange de bananes.
 4. Versez dans un moule et mettez au four pour 45 minutes.

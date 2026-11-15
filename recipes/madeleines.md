@@ -24,5 +24,5 @@ image: ""
 ## Préparation
 
 1. Préchauffez le four à 210°C
-2. Faîtes blanchir les oeufs avec le sucre. Ajoutez le reste des ingredients et mélangez jusqu'à obtenir une pâte bien homogène.
+2. Faîtes blanchir les œufs avec le sucre. Ajoutez le reste des ingrédients et mélangez jusqu'à obtenir une pâte bien homogène.
 3. Remplissez les moules à 2/3 puis enfournez pour 10 minutes.

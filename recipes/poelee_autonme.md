@@ -21,7 +21,7 @@ image: ""
 
 ## Préparation
 
-1. Faites chaufer une pôele et faites-y dorer les lardons quelques minutes.
-2. Ensuite ajoutez dans la pôele la courge et la pomme coupée en petits morceaux et laissez cuite 15 minutes.
-3. Pendant ce temps, faites cuire les pommes noisettes au four (pour éviter qu'elle ne ramollisent dans la poêle).
+1. Faites chauffer une poêle et faites-y dorer les lardons quelques minutes.
+2. Ensuite ajoutez dans la poêle la courge et la pomme coupée en petits morceaux et laissez cuite 15 minutes.
+3. Pendant ce temps, faites cuire les pommes noisettes au four (pour éviter qu'elle ne ramollissent dans la poêle).
 4. Ajoutez les marrons à la poêle 5 minutes avant la fin de cuisson, puis les pommes noisettes juste avant de servir.

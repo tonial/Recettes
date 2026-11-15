@@ -30,4 +30,4 @@ image: ""
 3. Ajoutez la farine, la levure, et les pépites de chocolat, puis mélangez à nouveau.
 4. Incorporez la farine, la maïzena et la levure au mélange jaunes/sucre.
 5. Disposez des boules de 3-4 cm de diamètre sur une plaque, et enfournez pour 10 minutes.
-6. Laissez refroidir les cookies un peu avant de les manger (histoire qu'ils ne tombent pas en morceaux
+6. Laissez refroidir les cookies un peu avant de les manger (histoire qu'ils ne tombent pas en morceaux).

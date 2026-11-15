@@ -15,7 +15,7 @@ image: ""
 
 - 1 1/2 cup de pois chiches égouttés
 - 1/3 cup d'eau
-- 3 cuil. à soupe de Tahiné
+- 3 cuil. à soupe de Tahini
 - 2 cuil. à soupe d'huile d'olive
 - 2 cuil. à soupe de jus de citron
 - 1 gousse d'ail
@@ -27,4 +27,4 @@ image: ""
 
 ## Conseils
 
-- Ajoutez 3 gousses d'ail roties pour une version alternative.
+- Ajoutez 3 gousses d'ail rôties pour une version alternative.

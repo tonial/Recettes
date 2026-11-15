@@ -28,12 +28,12 @@ image: ""
 
 - 60 g de farine
 - 20 g de sucre
-- 45 g de buerre
+- 45 g de beurre
 
 ## Préparation
 
 1. Faites préchauffer le four à 200°C et beurrez le moule à muffins.
 2. Mélangez le farine, le sucre, le sel et la levure pour la pâte à muffins. Ajoutez ensuite l'huile le lait et l'œuf en mélangeant pour obtenir un mélange homogène. Ajoutez doucement les myrtilles.
 3. Préparez à part la pâte à crumble en mélangeant le beurre la farine et le sucre ensemble.
-4. Mettez la pâte des muffins dans les moules et soupoudrez les avec la pâte à crumble.
+4. Mettez la pâte des muffins dans les moules et saupoudrez les avec la pâte à crumble.
 5. Mettez à cuir pour 25 minutes puis laissez refroidir avant dégustation.

@@ -23,7 +23,7 @@ image: ""
 
 1. Faites préchauffer le four à 180°C.
 2. Découpez les pommes en tranches fines et disposez celles-ci dans un grand plat (environ 30 cm de diamètre et 6 cm de hauteur).
-3. Découpez le beurre en petits cubes et mélangez-le bien à la farine, au sucre et à la poudre d'amandes. Ajoutez un peu d'eau si le mélande est trop friable.
+3. Découpez le beurre en petits cubes et mélangez-le bien à la farine, au sucre et à la poudre d'amandes. Ajoutez un peu d'eau si le mélange est trop friable.
 4. Émiettez la pâte sur les pommes et enfournez pour 1 heure. Vous pouvez étendre la cuisson pour obtenir un résultat plus caramélisé et fondant.
 
 ## Conseils

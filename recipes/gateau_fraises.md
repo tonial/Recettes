@@ -9,7 +9,7 @@ source: ""
 image: ""
 ---
 
-# Gateau aux fraises
+# Gâteau aux fraises
 
 ## Ingrédients
 
@@ -19,7 +19,7 @@ image: ""
 - 40 g de sucre
 - 4 œufs
 
-### Crème patissière
+### Crème pâtissière
 
 - 300 g de lait de soja
 - 30 g de fécule de maïs
@@ -38,9 +38,9 @@ image: ""
 2. Fouettez le sucre et les œufs dans le robot et fouettez 5 minutes à vitesse rapide, puis 15 minutes à vitesse moyenne.
 3. Tamisez la farine au dessus et incorporez très délicatement avec une maryse.
 4. Verser dans un moule rond de 23 cm de diamètre, et enfournez pour 18 minutes.
-5. Pendant la cuisson, préparez la crème patissière : versez tous les ingrédients sauf le beurre dans une casserole et fouettez sur feu moyen jusqu'à ce que la crème épaississe.
+5. Pendant la cuisson, préparez la crème pâtissière : versez tous les ingrédients sauf le beurre dans une casserole et fouettez sur feu moyen jusqu'à ce que la crème épaississe.
 6. Retirez du feu, ajoutez le beurre et mélangez bien.
-7. Sortez la génoise du four et laissez-là un peu tiédir avant de la napper de la crème patissière.
+7. Sortez la génoise du four et laissez-là un peu tiédir avant de la napper de la crème pâtissière.
 8. Lavez et découpez les fraises en 4 en fonction de leur taille. disposez les sur la crème avant qu'elle ne fige.
 
 ## Conseils

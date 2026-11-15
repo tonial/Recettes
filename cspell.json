@@ -7,6 +7,16 @@
       "language": "fr"
     }
   ],
-  "ignorePaths": [".venv", "_site", "uv.lock"],
-  "words": ["preparationtime", "waitingtime", "bakingtime"]
+  "ignorePaths": [
+    ".venv",
+    "_site",
+    "uv.lock"
+  ],
+  "words": [
+    "bakingtime",
+    "butternut",
+    "passata",
+    "preparationtime",
+    "waitingtime"
+  ]
 }

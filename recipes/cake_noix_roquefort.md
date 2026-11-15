@@ -24,6 +24,6 @@ image: ""
 ## Préparation
 
 1. Préchauffez le four à 180°C.
-2. Mélangez farine, levure, oeufs, lait et huile jusqu'à ce que la préparation soit homogène
-3. Ajoutez le roquefort émiétté, ainsi que les noix hachées et mélangez délicatement.
+2. Mélangez farine, levure, œufs, lait et huile jusqu'à ce que la préparation soit homogène
+3. Ajoutez le roquefort émietté, ainsi que les noix hachées et mélangez délicatement.
 4. Versez dans un moule à cake et cuisez pendant 45 min.

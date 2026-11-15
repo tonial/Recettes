@@ -40,9 +40,9 @@ image: ""
 ## Préparation
 
 1. Faites chauffer le four à 180°C, et préparez un plat de 20*30cm en mettant un papier sulfurisé dedans.
-2. Mélangez ensemble les ingrédients de la pâte puis emiettez dans le plat.
-3. Applatissez avec un fond de verre et mettez au four pour 20 minutes (jusqu'à ce que la pâte soit bien dorée.
-4. Pendant ce temps hachez très fiement le zeste de citron, puis mélangez le aux autres ingrédients.
+2. Mélangez ensemble les ingrédients de la pâte puis émiettez dans le plat.
+3. Aplatissez avec un fond de verre et mettez au four pour 20 minutes (jusqu'à ce que la pâte soit bien dorée.
+4. Pendant ce temps hachez très finement le zeste de citron, puis mélangez le aux autres ingrédients.
 5. Mettez à cuir à feu moyen le nappage pendant quelques minutes, et retirez le du feu dès qu'il épaissi.
 6. Versez sur le nappage fond sablé et remettez le plat au four pour 15 minutes.
 7. Laissez bien refroidir au réfrigérateur avant de couper en carrés pour déguster !

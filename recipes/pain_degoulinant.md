@@ -23,5 +23,5 @@ image: "pain_degoulinant_ext"
 
 1. Préchauffez le four à 200°C.
 2. Coupez la miche en tranches sans aller jusqu'au fond laissez environ 1 cm.
-3. insérez de la ciboulette dans les interstices puis ajoutez le fromage à raclette et le roquefort dans les coupes. Pour finir poivrez et soupoudrez le reste de ciboulette sur le dessus du pain.
-4. Enveloppez le pain dans une feuille d'aluminium et mettez le au four pour 30 minutes. Retirez le pain de l'aluminium et remettez au four pour 15 minutes afin de faire griller la croute du pain et le surplus de fromage.
+3. insérez de la ciboulette dans les interstices puis ajoutez le fromage à raclette et le roquefort dans les coupes. Pour finir poivrez et saupoudrez le reste de ciboulette sur le dessus du pain.
+4. Enveloppez le pain dans une feuille d'aluminium et mettez le au four pour 30 minutes. Retirez le pain de l'aluminium et remettez au four pour 15 minutes afin de faire griller la croûte du pain et le surplus de fromage.

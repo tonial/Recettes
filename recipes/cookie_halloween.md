@@ -30,11 +30,11 @@ image: ""
 ## Préparation
 
 1. Préchauffez le four à 175°C (oui bon, c'est une recette américaine qui demande 350°F, mais personne ne sera choqué si vous mettez 180°C à la place).
-2. Cuissez la courge en petits dés dans de l'eau et écrasez là en purée.
+2. Cuisez la courge en petits dés dans de l'eau et écrasez là en purée.
 3. Dans un bol, mélangez ensemble la farine la levure chimique le sel et les épices. Préservez de côté.
 4. Dans un autre bol, mélangez le beurre et le sucre jusqu'à ce que le mélange mousse un peu (au fouet ou au batteur électrique).
 5. Intégrez l'œuf tout en continuant à mélanger, puis faites de même avec le lait et la purée de courge.
-6. Ajoutez peu à peu les ingrédients sec en mixant à faible vitesse jusqu'à ce que vous obteniez une pate molle.
-7. Faites des boules de 3 cm de diamètres et applatissez les sur une plaque de cuisson.
+6. Ajoutez peu à peu les ingrédients sec en mixant à faible vitesse jusqu'à ce que vous obteniez une pâte molle.
+7. Faites des boules de 3 cm de diamètres et aplatissez les sur une plaque de cuisson.
 8. Mettez à cuir pour 10-12 minutes jusqu'à ce que les cookies dorent légèrement.
 9. Laissez les cookies refroidir 5 minutes avant de les déplacer sur une grille pour qu'ils finissent de refroidir.
