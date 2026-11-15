@@ -1,0 +1,33 @@
+---
+category: "Plats Froids"
+preparationtime: "10 minutes"
+waitingtime: ""
+bakingtime: ""
+portion: "4 personnes"
+tags: []
+source: "www.papillesetpupilles.fr"
+image: "salade_orange_oignon_feta_ext"
+---
+
+# Salade d'oranges oignons rouges et feta
+
+## Ingrédients
+
+### Salade
+
+- 6 oranges
+- 120 g de feta
+- 1 oignon rouge
+- 1 cuil. à soupe de persil haché
+
+### Sauce
+
+- 2 cuil. à soupe de jus de citron
+- 3 cuil. à soupe de jus d'orange
+- 3 cuil. à soupe d'huile d'olive
+
+## Préparation
+
+1. Pelez les oranges à vif et prélevez les segments. Coupez-les en deux. Récupérez dans un bol le jus résultant de cette opération et réservez-le pour la préparation de la sauce. Épluchez l’oignon et coupez-le en fines lamelles.
+2. Préparez l’assaisonnement : Dans un saladier versez une pincée de sel et de poivre du moulin ajoutez le jus de citron le jus d’orange l’huile d’olive et fouettez.
+3. Ajoutez-y les quartiers d’orange les morceaux d’oignon rouge les dés de feta mélangez et saupoudrez de persil haché.

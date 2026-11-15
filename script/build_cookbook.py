@@ -1,6 +1,7 @@
 import enum
 import glob
 import os
+import re
 import shutil
 from operator import itemgetter
 from pathlib import Path
@@ -26,13 +27,77 @@ class MetaEnum(enum.Enum):
     portion = "Portions"
 
 
-def init_ingredients_group_dict():
-    return {"list": []}
+SECTIONS = {
+    "Ingrédients": "ingredients",
+    "Préparation": "steps",
+    "Conseils": "hints",
+}
+
+LIST_ITEM_RE = re.compile(r"^(?:[-*+]|\d+[.)])\s+(.*)$")
+
+
+def parse_list(lines):
+    """Return the items of a markdown list (bullet or numbered), joining continuation lines."""
+    items = []
+    for line in lines:
+        if match := LIST_ITEM_RE.match(line):
+            items.append(match.group(1).strip())
+        elif line.strip():
+            if not items:
+                raise ValueError(f"Unexpected text outside of a list: {line!r}")
+            items[-1] += " " + line.strip()
+    return items
+
+
+def parse_recipe(text):
+    """Parse a markdown recipe: YAML front matter, `# Name` title and `## Section` lists."""
+    match = re.match(r"^---\n(.*?)\n---\n(.*)$", text, re.DOTALL)
+    if not match:
+        raise ValueError("Missing YAML front matter")
+    data = yaml.safe_load(match.group(1)) or {}
+    data["meta"] = {key: data.pop(key.name, "") for key in MetaEnum}
+
+    sections = {}
+    current = None
+    for line in match.group(2).splitlines():
+        if line.startswith("# "):
+            data["name"] = line[2:].strip()
+            current = None
+        elif line.startswith("## "):
+            title = line[3:].strip()
+            if title not in SECTIONS:
+                raise ValueError(f"Unknown section {title!r} (expected one of {list(SECTIONS)})")
+            current = sections.setdefault(SECTIONS[title], [])
+        elif current is not None:
+            current.append(line)
+        elif line.strip():
+            raise ValueError(f"Unexpected text outside of a section: {line!r}")
+
+    if "name" not in data:
+        raise ValueError("Missing `# Name` title")
+
+    # Ingredients may be divided into groups using `### Group title` sub-headings
+    groups = [{"lines": []}]
+    for line in sections.get("ingredients", []):
+        if line.startswith("### "):
+            groups.append({"title": line[4:].strip(), "lines": []})
+        else:
+            groups[-1]["lines"].append(line)
+    data["ingredients"] = [
+        {**({"title": group["title"]} if "title" in group else {}), "list": parse_list(group["lines"])}
+        for group in groups
+        if "title" in group or parse_list(group["lines"])
+    ]
+
+    data["steps"] = parse_list(sections.get("steps", []))
+    data["hints"] = parse_list(sections.get("hints", []))
+    return data
 
 
 class CookBookGenerator:
     def __init__(self):
         root_dir = os.path.join(os.path.dirname(os.path.realpath(__file__)), "..")
+        self.recipes_dir = os.path.join(root_dir, "recipes")
         self.templates_dir = os.path.join(root_dir, "templates")
         # imgs_dir = os.path.join(ROOT_DIR, "img")
         self.site_dir = os.path.join(root_dir, "_site")
@@ -48,31 +113,16 @@ class CookBookGenerator:
 
     def process_recipe(self, recipe_file):
         recipe_name = Path(recipe_file).stem
-        with open(recipe_file) as f:
-            data = yaml.safe_load(f.read())
+        with open(recipe_file, encoding="utf-8") as f:
+            try:
+                data = parse_recipe(f.read())
+            except ValueError as e:
+                raise ValueError(f"{recipe_file}: {e}") from e
 
         self.validate_recipe(data)
 
         # Replace meta key with label
-        data["meta"] = {MetaEnum[key].value: value for (key, value) in data["meta"].items()}
-
-        # parse ingredients
-        parsed_ingredients = []
-        group = init_ingredients_group_dict()
-        for ingredient in data["ingredients"]:
-            if "|" in ingredient:
-                # Close previous group
-                if "title" in group:
-                    parsed_ingredients.append(group)
-                    group = init_ingredients_group_dict()
-
-                group["title"] = ingredient[1:]  # without the starting |
-            else:
-                group["list"].append(ingredient)
-        parsed_ingredients.append(group)
-        data["ingredients"] = parsed_ingredients
-
-        # data["graph"] = os.path.join(pic_path, data["graph"])
+        data["meta"] = {key.value: data["meta"][key] for key in MetaEnum}
 
         html_file = f"{recipe_name}.html"
         with open(os.path.join(self.site_dir, html_file), "w") as f:
@@ -105,7 +155,7 @@ class CookBookGenerator:
 
         # Process recipes files
         self.recipes = {cat: [] for cat in CATEGORIES}
-        files = glob.glob(r"recipes/[!_]*.yaml")
+        files = glob.glob(os.path.join(self.recipes_dir, "[!_]*.md"))
         for recipe_file in files:
             self.process_recipe(recipe_file)
         self.process_index()

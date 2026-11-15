@@ -1,0 +1,29 @@
+---
+category: "Plats Chauds"
+preparationtime: "15 minutes"
+waitingtime: ""
+bakingtime: "1 heure"
+portion: "4 personnes"
+tags: []
+source: ""
+image: ""
+---
+
+# Lentilles au chorizo
+
+## Ingrédients
+
+- 250 g de chorizo
+- 250 g de lentilles verts sèches
+- 400 g de pulpe de tomate
+- 2 oignons
+- 2 gousses d'ail
+- 50 cl de bouillon Kub Or.
+- 1 cuil. à café de cumin
+- 1 feuille de laurier
+- 2 cuil. à soupe d'huile d'olive
+
+## Préparation
+
+1. Émincez finement les oignons. Faites revenir ceux-ci dans l'huile d'olive. Ajoutez le chorizo découpé en morceaux tout en laissant à feux vif.
+2. Recouvrez de bouillon coupez l'ail en petits morceaux et ajoutez-le avec les épices du sel et du poivre. Ajoutez les lentilles et la chaire de tomate et laissez mijoter jusqu'à ce que les lentilles soient cuites (environ une heure).

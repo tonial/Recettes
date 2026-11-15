@@ -1,0 +1,33 @@
+---
+category: "Plats Chauds"
+preparationtime: "1 heure 15 minutes"
+waitingtime: ""
+bakingtime: "45 minutes"
+portion: "4 personnes"
+tags: []
+source: "www.papillesetpupilles.fr"
+image: ""
+---
+
+# Crumble de courgettes au cumin
+
+## Ingrédients
+
+- 2 grosses courgettes
+- 1 gousse d'ail
+- 1/2 cuil. à café de cumin
+- 2 cuil. à soupe d'huile d'olive
+- 4 tomates confites à l'huile
+- 50 g de poudre de noisette
+- 50 g de parmesan rapé
+- 50 g de farine complete
+- 50 g beurre
+- sel poivre
+
+## Préparation
+
+1. Lavez les courgettes coupez-les en dés. Faites chauffer 2 cuillères à soupe d’huile d’olive dans une sauteuse ajoutez les courgettes la gousse d’ail dégermée le cumin le sel et le poivre et faites cuire pendant 20 minutes à découvert pour faire s'évaporer l'eau.
+2. Pendant ce temps coupez les tomates confites en morceaux et préchauffez le four à 180°C.
+3. Quand les courgettes sont cuites écrasez les grossièrement à la fourchette puis ajoutez les dés de tomates confites.
+4. Mélangez parmesan farine et poudre de noisette dasn un récipient. Ajoutez le beurre et sablez la pâte.
+5. Recouvrez les courgettes avec la pâte. puis enfournez pour 15 minutes en chaleur tournante. Pour les 3 dernières minutes utilisez l’option grill pour colorer les miettes.

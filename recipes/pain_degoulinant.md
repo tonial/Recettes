@@ -1,0 +1,27 @@
+---
+category: "Apéro"
+preparationtime: "15 minutes"
+waitingtime: ""
+bakingtime: "45 nimutes"
+portion: "6 personnes"
+tags: []
+source: "www.amusesbouche.fr"
+image: "pain_degoulinant_ext"
+---
+
+# Pain dégoulinant de fromage à partager
+
+## Ingrédients
+
+- 1 miche de pain non tranchée
+- 200 g de fromage à raclette
+- 100 g de roquefort
+- 1 botte de ciboulette
+- du poivre
+
+## Préparation
+
+1. Préchauffez le four à 200°C.
+2. Coupez la miche en tranches sans aller jusqu'au fond laissez environ 1 cm.
+3. insérez de la ciboulette dans les interstices puis ajoutez le fromage à raclette et le roquefort dans les coupes. Pour finir poivrez et soupoudrez le reste de ciboulette sur le dessus du pain.
+4. Enveloppez le pain dans une feuille d'aluminium et mettez le au four pour 30 minutes. Retirez le pain de l'aluminium et remettez au four pour 15 minutes afin de faire griller la croute du pain et le surplus de fromage.

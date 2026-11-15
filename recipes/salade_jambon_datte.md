@@ -1,0 +1,31 @@
+---
+category: "Plats Froids"
+preparationtime: "15 minutes"
+waitingtime: ""
+bakingtime: ""
+portion: "4 personnes"
+tags: [quick]
+source: ""
+image: ""
+---
+
+# Salade au jambon de Bayonne et aux dattes
+
+## Ingrédients
+
+- 4 tranches jambon de Bayonne
+- 20 dates séchées
+- 200 g de feta
+- 200 g de frisée
+- 1/2 cuil. à soupe de moutarde à l'ancienne
+- 1 cuil. à soupe d'huile d'olive
+- 1 cuil. à soupe de vinaigre balsamique
+
+## Préparation
+
+1. Émincez les dates et la fêta en petits dés et découpez le jambon en fins rectangles. Disposez la frisée dans les assiettes suivie de la fêta de dates et pour finir du jambon.
+2. Mélangez le vinaigre et la moutarde puis ajoutez l'huile et émulsionnez le tout. Versez la sauce obtenue sur les assiettes.
+
+## Conseils
+
+- Parfait pou accompagner une tartine au chèvre chaud.

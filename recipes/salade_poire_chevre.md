@@ -1,0 +1,26 @@
+---
+category: "Plats Froids"
+preparationtime: "10 minutes"
+waitingtime: ""
+bakingtime: ""
+portion: "4 personnes"
+tags: []
+source: ""
+image: ""
+---
+
+# Salade poire chèvre
+
+## Ingrédients
+
+- 1 grosse poire
+- 1 crottin de Chavignol
+- 250 g de mélange de frisée et roquette
+- un demi citron
+- 1 cuil. à soupe de miel liquide (acacia)
+- 1 cuil. à soupe d'huile de noix
+
+## Préparation
+
+1. Coupez la poire et le chèvre en petits morceaux. Disposez la salade dans les assiettes suivie des morceaux de poire puis de chèvre.
+2. Mélangez le jus de citron le miel et l'huile dans un bol. Versez la sauce obtenue sur les assiettes.

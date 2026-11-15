@@ -1,0 +1,27 @@
+---
+category: "Desserts"
+preparationtime: "15 minutes"
+waitingtime: ""
+bakingtime: "45 minutes"
+portion: "4 personnes"
+tags: []
+source: "Chloé"
+image: ""
+---
+
+# Poires surprises au chocolat
+
+## Ingrédients
+
+- 4 grosses poires juste mûres
+- 100 g de chocolat noir à cuire
+- 2 cuillères à soupe de farine ou maïzena
+- 20g de beurre
+- 2 œufs
+
+## Préparation
+
+1. Préchauffer le four à 150° C.
+2. Peler les poires. Couper le haut en faisant un cône vers l’intérieur de la poire. Evider la poire à la petite cuillère, en faisant attention de ne pas percer le fond ou les côtés.
+3. Faire fondre le chocolat avec le beurre. Y ajouter la farine et les œufs. Verser la préparation dans les poires.
+4. Mettre au four et faire cuire 45 à 50 minutes.

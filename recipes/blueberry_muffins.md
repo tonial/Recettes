@@ -1,0 +1,39 @@
+---
+category: "Goûters"
+preparationtime: "15 minutes"
+waitingtime: ""
+bakingtime: "25 minutse"
+portion: "8 gros muffins"
+tags: []
+source: "allrecipes.com"
+image: ""
+---
+
+# Blueberry Muffins
+
+## Ingrédients
+
+### Muffin
+
+- 200 g de farine
+- 30 g de sucre
+- 150 g de myrtilles
+- 1/2 cuil. à café de sel
+- 1 sachet de levure chimique
+- 1 œuf
+- 80 ml d'huile de tournesol
+- 80 ml de lait
+
+### Crumb topping
+
+- 60 g de farine
+- 20 g de sucre
+- 45 g de buerre
+
+## Préparation
+
+1. Faites préchauffer le four à 200°C et beurrez le moule à muffins.
+2. Mélangez le farine, le sucre, le sel et la levure pour la pâte à muffins. Ajoutez ensuite l'huile le lait et l'œuf en mélangeant pour obtenir un mélange homogène. Ajoutez doucement les myrtilles.
+3. Préparez à part la pâte à crumble en mélangeant le beurre la farine et le sucre ensemble.
+4. Mettez la pâte des muffins dans les moules et soupoudrez les avec la pâte à crumble.
+5. Mettez à cuir pour 25 minutes puis laissez refroidir avant dégustation.

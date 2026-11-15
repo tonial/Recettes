@@ -1,0 +1,30 @@
+---
+category: "Boulangerie"
+preparationtime: "30 minutes"
+waitingtime: "3 heures"
+bakingtime: ""
+portion: "8 personnes"
+tags: []
+source: "marmiton"
+image: "bretzels_ext"
+---
+
+# Bretzels
+
+## Ingrédients
+
+- 300 g de farine
+- 20 cl d'eau tiède
+- 30 g de bicarbonate de soude
+- 10 g de levure de boulanger
+- 50 g de beurre
+- du sel fin et gros sel
+
+## Préparation
+
+1. Pour la préparation du levain délayez la levure et le sel fin dans 10 cl d'eau tiède. Ajoutez 2 cuilères à soupe de faine en mélangeant bien puis laissez reposer dans un endroit tiède jusqu'à ce que le volume ai doublé.
+2. Dans une terrine mélangez le reste de farine et d'eau tiède avec le beurre en pommade. Pétrissez bien cette pâte puis incorporez le levain. Laissez reposer pendant 2 heures en couvrant d'un linge humide.
+3. Au moment de commencer à former les bretzels préchauffez le four à 250°C. Prélevez des morceaux de pâte de la taille d'un oeuf. Roulez des boudins de la dimension d'un petit doigt et d'une longueur de 40 cm puis façonnez-les en croisant les exrtémités vers l'intérieur.
+4. Laissez reposer 20 minutes afin de permettre à la pâte de se rafermir légèrement. Dans une casserole faites boullir 2 litres d'eau avec le bicarbonate puis laissez tiédir.
+5. Plongez les bretzels dans ce bain retirez les lorsqu'ils remontent à la surface puis posez les précautionneusement sur une plaque beurrée.
+6. Parsemez-les de gros sel et mettez à cuire pour 8 à 10 minutes le temps de les faire dorer.

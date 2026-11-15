@@ -1,0 +1,36 @@
+---
+category: "Boulangerie"
+preparationtime: "30 minutes"
+waitingtime: "2 heures 30 minutes"
+bakingtime: "10 minutes"
+portion: "4 personnes"
+tags: []
+source: ""
+image: ""
+---
+
+# Pâte à pizza
+
+## Ingrédients
+
+- 250 g de farine T55
+- 250 g de farine T150
+- 10 g de levure fraîche de boulanger
+- 20 g d'huile d'olive
+- 300 ml d'eau tiède
+- 5 g de sel
+- de la semoule fine de blé dur
+
+## Préparation
+
+1. Dans le bol du robot muni du crochet pétrisseur, mettez les ingrédients liquides, puis la levure, et enfin les autres ingrédients, et pétrissez 10 minutes.
+2. Retirez le crochet, faites une belle boule avec la pâte, et remettez-la dans le bol du robot en l'huilant un pau. Recouvrez le bol d’un torchon propre et placez-le dans un endroit chaud pendant 1h.
+3. Préchauffez le four avec la pierre réfractère à 250°C.
+4. Divisez la pâte en trois, farinez le plan de travail avec de la semoule fine de blé dur.
+5. Étalez une boule, huilez et ajoutez eventuellement des garnitures (jambon, parmezan, herbes) ou préparez une pizza !
+6. Enfourner pour quelques minutes (surveiller car cela dépend beaucoup de l'épaisseur de la pâte). C'est l'étape difficile de la recette.
+
+## Conseils
+
+- Pour la farine, on peut prendre de la farine à pizza (blé Manitoba) ou un mélange de farine avec une farine plus complète (110/150).
+- Niveau garniture, vous pouvez juste mettre un mélange huile d'olive/eau et un peu de parmesan et d'organ pour faire une foccacia toute simple.

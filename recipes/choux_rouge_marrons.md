@@ -1,0 +1,27 @@
+---
+category: "Plats Chauds"
+preparationtime: "30 minutes"
+waitingtime: ""
+bakingtime: "1 heure"
+portion: "6 personnes"
+tags: []
+source: ""
+image: ""
+---
+
+# Choux rouge aux marrons
+
+## Ingrédients
+
+- 1/2 choux rouge (700g)
+- 2 oignons rouges
+- 4 pommes
+- 400g de lardons
+- 500g de marrons
+- 500ml de bouillon
+
+## Préparation
+
+1. Émincez le choux. Blanchissez-le en le mettant dans une casserole d'eau froide que vous mettez à chauffez. Lorsque celle-ci boue égouttez le choux. Pendant ce temps émincez les oignons et coupez les pommes en morceaux.
+2. Faites dégraisser les lardons puis présevez les de coté.
+3. Faites fondre les oignons avec un filet d'huile. Une fois devenu translucides ajoutez tous les ingrédients mélangez un peu et laissez cuire à feu moyen pendant 45 minutes.

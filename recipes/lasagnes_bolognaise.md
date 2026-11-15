@@ -1,0 +1,49 @@
+---
+category: "Plats Chauds"
+preparationtime: "45 minutes"
+waitingtime: ""
+bakingtime: "40 minutes"
+portion: "8 personnes"
+tags: []
+source: ""
+image: ""
+---
+
+# Lasagnes à la bolognaise végétariennes
+
+## Ingrédients
+
+### Lasagnes
+
+- 400 g de lasagnes
+- 200 g de fromage râpé
+
+### Bolognaise
+
+- 3 oignons
+- 2 gousses d'ail
+- 1 carotte
+- 400 g de tofu rosso
+- 700 ml de passata
+- 2 feuilles de laurier
+- 1 cuil. à soupe de thym
+- 1 cuil. à soupe de basilic
+
+### Béchamel
+
+- 100 g de farine
+- 100 g de beurre
+- 1 l de lait
+- 3 pincées noix de muscade râpée
+
+## Préparation
+
+1. Faites préchauffer le four à 180°C. Émincez les oignons écrasez l'ail et hachez finement la carotte.
+2. Faites revenir ail, oignons et carottes dans un peu d'huile d'olive.
+3. Ajoutez la passata et les herbes. Salez poivrez puis laissez mijoter à feu doux 20 min.
+4. Préparez la béchamel : faites fondre le beurre puis ajoutez la farine. Mélangez avant d'ajouter le lait progressivement pour éviter les grumeaux.
+5. Continuez à remuer jusqu'à ce que le mélange s'épaississe. Ensuite parfumez avec la muscade et le sel.
+6. Ajoutez le tofu rosso émietté à la bolognaise.
+7. Huilez le plat puis versez une fine couche de béchamel. Ensuite alternez lasagnes bolognaise béchamel 4 fois de suite.
+8. Finissez par une 5ème épaisseur de lasagnes avec de la bechamel et la mozzarella en morceaux.
+9. Enfournez pour 40 minutes.
