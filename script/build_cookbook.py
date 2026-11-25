@@ -14,6 +14,7 @@ CATEGORIES = [
     "Apéro",
     "Plats Froids",
     "Plats Chauds",
+    "Condiments",
     "Boulangerie",
     "Desserts",
     "Goûters",
